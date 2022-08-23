@@ -7,7 +7,7 @@ Please ⭐️ this repo and share it with others
 ### Screenshots
 Scientific 
 :------------------:|:-------------------
-![Calculator - screenshot](screenshots/gui.PNG) 
+![BioProfiler - screenshot](screenshots/gui.PNG) 
 
 ### Requirements 🔧
 * Java version 8 or higher.
