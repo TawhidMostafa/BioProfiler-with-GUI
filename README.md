@@ -5,8 +5,7 @@
 Please ⭐️ this repo and share it with others
 
 ### Screenshots
-Scientific 
-:------------------:|:-------------------
+
 ![BioProfiler - screenshot](screenshots/gui.png) 
 
 ### Requirements 🔧
